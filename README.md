@@ -13,7 +13,21 @@ What I learned from developing this page are:
 -	The logical structure of HTML elements
 -	How to use accessible alt attributes for images and icon elements which provides alternative information for an image or icon if a user for some reason cannot view it
 -	How to set heading attributes in a sequential order so that it makes it easier for someone using a screen reader to understand the content.
+
+### Installation
+The site is published in github. The site can be updated using git bash commandsand changes to push to Git Hub repository by gitbash commands
+
   
+#### The site is live at https://agaffar74.github.io/emedia/
+
+#### Images were used in jpg format and listed below: 
+- brand-awareness.png
+- cost-management.png
+- digital-marketing-meeting.jpg
+- lead-generation.png
+- online-reputation-management.jpg
+- search-engine-optimization.jpg
+- social-media-marketing.jpg
   
 # Contact
 
