@@ -10,23 +10,23 @@ body { /* Set the background colour of the element */
     background-color: #d9dcd6;
 }
 
-.header {
+.header { /* Display & Box Model with setting colour and font family*/
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+.header h1 { /* Setting the format of header*/
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header h1 .seo { /* Setting the format of header*/
     color: #d9dcd6;
 }
 
-.header div {
+.header div {  /* Display & Box Model with setting mergin font family*/
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -43,14 +43,14 @@ body { /* Set the background colour of the element */
     margin-left: 25px;
 }
 
-a  { color: #ffffff;
+a  { color: #ffffff;  /* Setting the colour */
     text-decoration: none;
 }
 
 p { font-size: 16px;
 }
 
-.hero { /* Initilising the size of this section */
+.hero { /* Display & Box Model with setting the size of the section*/
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -59,7 +59,7 @@ p { font-size: 16px;
     background-position: center;
 }
 
-.float-left {/* Positioning */
+.float-left { /* Positioning */
     float: left;
     margin-right: 25px;
 }
@@ -74,7 +74,7 @@ p { font-size: 16px;
     display: inline-block;
     margin-left: 20px;
 }
-.search-engine-optimization { /* Other */
+.search-engine-optimization { /* Display & Box Model with setting the size of the section*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -83,7 +83,7 @@ p { font-size: 16px;
     color: #ffffff;
 }
 
-.online-reputation-management { /* Other */
+.online-reputation-management { /* Display & Box Model with setting the size of the section*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -92,7 +92,7 @@ p { font-size: 16px;
     color: #ffffff;
 }
 
-.social-media-marketing { /* Other */
+.social-media-marketing { /* Display & Box Model with setting the size of the section*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -101,35 +101,35 @@ p { font-size: 16px;
     color: #ffffff;
 }
 
-.search-engine-optimization img { /* set the height */
+.search-engine-optimization img { /* Setting the height of the image*/
     max-height: 200px;
 }
 
-.online-reputation-management img { /* set the height */
+.online-reputation-management img { /* Setting the height of the image*/
     max-height: 200px;
 }
 
-.social-media-marketing img { /* set the height */
+.social-media-marketing img { /* Setting the height of the image*/
     max-height: 200px;
 }
 
-.search-engine-optimization h2 { /* set the bottom mergin */
+.search-engine-optimization h2 { /* Setting the size of the header of this section*/
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 { /* set the bottom mergin */
+.online-reputation-management h2 { /* Setting the size of the header of this section*/
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.social-media-marketing h2 { /* set the bottom mergin */
+.social-media-marketing h2 { /* Setting the size of the header of this section*/
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 
-.benefits { /* Display & Box Model */
+.benefits { /* Display & Box Model with setting the size of the section*/
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -140,61 +140,61 @@ p { font-size: 16px;
     background-color: #2589bd;
 }
 
-.benefit-lead { /* set the bottom mergin */
+.benefit-lead { /* Positioning and setting the colour for the benefit-lead*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand { /* set the bottom mergin */
+.benefit-brand { /* Positioning and setting the colour for  the benefit-lead*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-cost { /* set the bottom mergin */
+.benefit-cost { /* Positioning and setting the colour for the benefit-cost*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {/* Positioning */
+.benefit-lead h3 {/* Positioning and setting the colour for the benefit-lead header*/
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 { /* Positioning */
+.benefit-brand h3 { /* Positioning and setting the colour for the benefit-brand header*/
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-cost h3 { /* Positioning */
+.benefit-cost h3 { /* Positioning and setting the colour for the benefit-cost header*/
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {/* Other */
+.benefit-lead img { /* Display & Box Model */
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img { /* Other */
+.benefit-brand img { /* Display & Box Model */
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-cost img { /* Other */
+.benefit-cost img { /* Display & Box Model */
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.footer {/* setting the font family */
+.footer { /* This is footer section with padding and colour set */
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {/* Other */
+.footer h2 { /* Header size and font of footer */
     font-size: 20px;
-}
+}  /* the end of CSS file */
